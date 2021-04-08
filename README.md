@@ -4,4 +4,4 @@
 
 This requires [Injector.](https://github.com/nefarius/Injector)
 
-Please don't use this to ruin other people's games--this is published purely for educational purposes. I released the source code because there are more powerful cheat programs out there, so there's no point in using mine to cheat. Use this to learn how game hacks work and secure your own games
+This is published for educational purposes. It doesn't work with recent versions of Among Us.
