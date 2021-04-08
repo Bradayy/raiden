@@ -4,4 +4,4 @@
 
 This requires [Injector.](https://github.com/nefarius/Injector)
 
-This is published for educational purposes. It doesn't work with recent versions of Among Us.
+This is published for educational purposes. It doesn't work with recent versions of Among Us and is geared towards those interested in cybersecurity/reverse engineering.
